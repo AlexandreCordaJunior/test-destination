@@ -1,0 +1,13 @@
+<mvc:View controllerName="ns.HTML5Module.controller.View1" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="{i18n>title}">
+					<content>
+                        <Image src="/nsHTML5Module/upload/129858a0-5c86-48b8-9767-1e2f936c7dc4"/>
+                    </content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
